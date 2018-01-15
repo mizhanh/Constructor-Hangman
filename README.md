@@ -1,6 +1,6 @@
 ## Constructor-Hangman
 
-#### Description
+### Description
 This is a Hangman command-line game using constructor functions as well as leveraging npm packages to interact with user.  
 
 * Three constructor functions were created:
@@ -11,7 +11,7 @@ This is a Hangman command-line game using constructor functions as well as lever
 * **Chalk npm** was used to prettify displays.
 
 
-#### Game Overview
+### Game Overview
 * A random word will be automatically generated at the start of the game.
 * Player will have X guesses to guess the word based on the length of the word.
 * If player guesses correctly, the letter will show on the terminal.  Otherwise, it will continue to be hidden and player will lose one live.
